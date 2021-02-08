@@ -61,7 +61,7 @@
   .filter-todo {
     padding: 1rem;
   }
-  .todo li {
+  .todo div {
     flex: 1;
   }
   
